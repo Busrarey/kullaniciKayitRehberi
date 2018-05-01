@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\KullaniciKayitRehberi.exe.config
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\KullaniciKayitRehberi.exe
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\bin\Debug\KullaniciKayitRehberi.pdb
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.exe
+c:\users\v\documents\visual studio 2015\Projects\KullaniciKayitRehberi\KullaniciKayitRehberi\obj\Debug\KullaniciKayitRehberi.pdb
